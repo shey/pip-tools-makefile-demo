@@ -1,0 +1,3 @@
+-c base-requirements.txt
+
+gunicorn

@@ -1,0 +1,5 @@
+-c base-requirements.txt
+
+flask-shell-ipython
+ipython
+black
